@@ -4,3 +4,4 @@
 # Ignore the VSCode workspace
 BadPom.code-workspace
 .vscode
+BadPomodoro.ino
